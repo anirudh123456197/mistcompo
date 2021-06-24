@@ -1,0 +1,31 @@
+.card{
+    background: #3C3644;
+    box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.25);
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.title-border-bottom{
+    border-bottom: 1px solid #7D4696;
+}
+.full{
+    background:#221F26;
+    text-align: center;
+    
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 0rem;
+    /* width: 60%; */
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 0.5rem;
+    font-weight: bold;
+   
+   
+}
+.full .button{
+    font-weight: 700;
+}
